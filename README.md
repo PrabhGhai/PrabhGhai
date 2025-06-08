@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
 <h3 align="center">MERN Stack Developer | System Engineer @ TCS | Open to MNCs & Startups</h3>
 
-
 ---
 
 ### 💡 About Me
 
 - 🔭 I’m currently working as a **System Engineer at TCS**
-- 🌱 I specialize in **MERN stack**, **Microservices**, and **Realtime systems**
+- 👨‍💻 I specialize in **MERN stack**, **Microservices**, and **Real-time Systems**
 - 💬 Ask me about **React.js, Node.js, MongoDB, Express, Kafka, Redis**
-- 🧠 Learning: **System Design** & **Scalable Backend Architecture**
-- 📫 Reach me at: **your.email@example.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://yourportfolio.com)
+- 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
+- 📫 Reach me at: **ghaiprabhghai@gmail.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/prabhjot-singh-a17613218) • [GitHub](https://github.com/PrabhGhai)
+
+---
+
+### 🚀 Building The Code Master
+
+🎓 I’m the founder of **The Code Master**, a self-starter project to help students build real-world major projects.  
+🌍 So far, I’ve helped **200+ students** across **India, Nigeria, Canada, Australia, Nepal, Pakistan, Ukraine, Germany, Malaysia, and Vietnam**!
+
+📺 [YouTube Channel](https://www.youtube.com/@thecodemasterji) with **4.5K+ subscribers** — sharing code tutorials, freelancing tips, and major project guides.
+
+> 💼 Helping students become **project-ready**, not just **placement-ready**.
 
 ---
 
@@ -33,22 +43,23 @@
 
 ### 💼 Projects
 
-Here are a few projects I’ve worked on:
-
 | Project | Tech Stack | Features |
 |--------|-------------|----------|
 | 💬 **MERN Chat App** | MERN, Socket.io, Zustand, Shimmer UI | Real-time chat with JWT |
+| 📚 **The Code Master (Student Platform)** | React, MongoDB, Express, Node.js | Project hub for students globally |
 
 ---
 
-### 🚀 Let's Connect
+### 🌎 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prabhjot-singh-a17613218"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ghaiprabhghai@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/PrabhGhai"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@thecodemasterji"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-*📍 Open to opportunities in Product-Based Companies, Startups, and MNCs as a MERN Stack / Backend Developer.*
+📍 *Open to opportunities in Product-Based Companies, Startups, and MNCs as a MERN Stack / Backend Developer.*
+
