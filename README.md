@@ -46,6 +46,7 @@
 
 | Project | Tech Stack | Features |
 |--------|-------------|----------|
+| 🏥 **Virtual Appointment Booking App + AI Chat Boat** | MERN, Context API, Jitsi, OpenAI | Role-based app with AI chatbot, report upload, doctor onboarding, and virtual health consultation |
 | 💬 **MERN Chat App** | MERN, Socket.io, Zustand, Shimmer UI | Real-time chat with JWT |
 | 📚 **The Code Master (Student Platform)** | React, MongoDB, Express, Node.js | Project hub for students globally |
 
