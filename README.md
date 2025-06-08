@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
 <h3 align="center">MERN Stack Developer | System Engineer @ TCS | Open to MNCs & Startups</h3>
 
-<img align="center" src="./assets/banner.png" alt="banner" />
 
 ---
 
