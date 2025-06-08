@@ -58,7 +58,7 @@
   <a href="mailto:ghaiprabhghai@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/PrabhGhai"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
   <a href="https://www.youtube.com/@thecodemasterofficial"><img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ghaiprabhghai/"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
