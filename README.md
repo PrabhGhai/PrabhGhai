@@ -19,7 +19,7 @@
 🎓 I’m the founder of **The Code Master**, a self-starter project to help students build real-world major projects.  
 🌍 So far, I’ve helped **200+ students** across **India, Nigeria, Canada, Australia, Nepal, Pakistan, Ukraine, Germany, Malaysia, and Vietnam**!
 
-📺 [YouTube Channel](https://www.youtube.com/@thecodemasterji) with **4.5K+ subscribers** — sharing code tutorials, freelancing tips, and major project guides.
+📺 [YouTube Channel](https://www.youtube.com/@thecodemasterofficial) with **4.5K+ subscribers** — sharing code tutorials, freelancing tips, and major project guides.
 
 > 💼 Helping students become **project-ready**, not just **placement-ready**.
 
