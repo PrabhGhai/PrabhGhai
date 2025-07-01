@@ -9,7 +9,7 @@
 - 👨‍💻 I specialize in **MERN stack**, **Microservices**, and **Real-time Systems**
 - 💬 Ask me about **React.js, Node.js, MongoDB, Express, Kafka, Redis**
 - 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
-- 🧩 Active **Problem Solver** with **175+ questions solved on [LeetCode](https://leetcode.com/u/ghaiprabhghai/)**
+- 🧩 Active **Problem Solver** with **185+ questions solved on [LeetCode](https://leetcode.com/u/ghaiprabhghai/)**
 - 📫 Reach me at: **ghaiprabhghai@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prabhjot-singh-a17613218) • [GitHub](https://github.com/PrabhGhai)
 
