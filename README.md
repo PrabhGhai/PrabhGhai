@@ -6,7 +6,7 @@
 ### 💡 About Me
 
 - 🔭 Currently working as a **System Engineer at TCS**
-- 👨‍💻 I specialize in **SpringBoot** **MERN stack**, **Microservices**, and **Real-time Systems**
+- 👨‍💻 I specialize in **SpringBoot**, **MERN stack**, **Microservices**, and **Real-time Systems**
 - 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, Express, Kafka, Redis**
 - 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
 - 🧩 Active **Problem Solver** with **300+ questions solved on LeetCode & GFG [LeetCode](https://leetcode.com/u/ghaiprabhghai/)**
