@@ -10,9 +10,8 @@
 - 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, SQL,Express, Kafka, Redis**
 - 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
 - 🧩 Active **Problem Solver** with **400+ questions solved on LeetCode & GFG
--  [LeetCode](https://leetcode.com/u/ghaiprabhghai/)**
 - 📫 Reach me at: **ghaiprabhghai@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/prabhjot-singh-a17613218) • [GitHub](https://github.com/PrabhGhai)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/prabhjot-singh-a17613218) • [GitHub](https://github.com/PrabhGhai) • [LeetCode](https://leetcode.com/u/ghaiprabhghai/)
 
 ---
 
