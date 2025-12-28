@@ -7,40 +7,15 @@
 
 - 🔭 Currently working as a **System Engineer at TCS**
 - 👨‍💻 I specialize in **SpringBoot**, **MERN Stack**, **Microservices**, and **Real-time Systems**
-- 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, Express, Kafka, Redis**
+- 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, SQL,Express, Kafka, Redis**
 - 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
-- 🧩 Active **Problem Solver** with **300+ questions solved on LeetCode & GFG [LeetCode](https://leetcode.com/u/ghaiprabhghai/)**
+- 🧩 Active **Problem Solver** with **400+ questions solved on LeetCode & GFG
+-  [LeetCode](https://leetcode.com/u/ghaiprabhghai/)**
 - 📫 Reach me at: **ghaiprabhghai@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prabhjot-singh-a17613218) • [GitHub](https://github.com/PrabhGhai)
 
 ---
 
-### 🚀 Building The Code Master
-
-🎓 I’m the founder of **The Code Master**, a self-starter project to help students build real-world major projects.  
-🌍 So far, I’ve helped **200+ students** across **India, Nigeria, Canada, Australia, Nepal, Pakistan, Ukraine, Germany, Malaysia, and Vietnam**!
-
-📺 [YouTube Channel](https://www.youtube.com/@thecodemasterofficial) with **4.5K+ subscribers** — sharing code tutorials, freelancing tips, and major project guides.
-
-> 💼 Helping students become **project-ready**, not just **placement-ready**.
-
----
-
-### 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,cpp,java,redux,kafka,redis,tailwind,js,git,github" />
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhGhai&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhGhai&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhGhai&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 💼 Projects
 
@@ -48,7 +23,6 @@
 |--------|-------------|----------|
 | 🏥 **Virtual Appointment Booking App + AI Chat Boat** | MERN, Context API, Jitsi, OpenAI | Role-based app (4 roles - User, Patient, Doctor, Admin) + AI chatbot, report upload, doctor onboarding, and virtual health consultation |
 | 💬 **MERN Chat App** | MERN, Socket.io, Zustand, Shimmer UI | Real-time chat with JWT |
-| 📚 **The Code Master (Student Platform)** | React, MongoDB, Express, Node.js | Project hub for students globally |
 
 ---
 
