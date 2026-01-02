@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
-<h3 align="center"> System Engineer @ TCS | SpringBoot / MERN Stack Developer | Open to MNCs & Startups</h3>
+<h3 align="center"> System Engineer @TCS | SpringBoot / MERN Stack Developer | Open to MNCs & Startups</h3>
 
 ---
 
 ### 💡 About Me
 
 - 🔭 Currently working as a **System Engineer at TCS**
-- 👨‍💻 I specialize in **SpringBoot**, **Microservices**, and **Real-time Systems**
-- 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, SQL, Express, Kafka, Redis**
+- 👨‍💻 I specialize in **Spring Boot**, **Real-time Systems**, **HLD**, **LLD**
+- 💬 Ask me about **SpringBoot, Spring Security, JPA, Spring MVC, Microservices, React.js, Node.js, MongoDB, SQL, Express, Kafka, Redis**
 - 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
 - 🧩 Active **Problem Solver** with **400+** questions solved on LeetCode & GFG
 - 📫 Reach me at: **ghaiprabhghai@gmail.com**
