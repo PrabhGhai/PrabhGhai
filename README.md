@@ -6,23 +6,13 @@
 ### 💡 About Me
 
 - 🔭 Currently working as a **System Engineer at TCS**
-- 👨‍💻 I specialize in **SpringBoot**, **MERN Stack**, **Microservices**, and **Real-time Systems**
-- 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, SQL,Express, Kafka, Redis**
+- 👨‍💻 I specialize in **SpringBoot**, **Microservices**, and **Real-time Systems**
+- 💬 Ask me about **SpringBoot, React.js, Node.js, MongoDB, SQL, Express, Kafka, Redis**
 - 🧠 Currently learning **System Design** & **Scalable Backend Architectures**
 - 🧩 Active **Problem Solver** with **400+ questions solved on LeetCode & GFG
 - 📫 Reach me at: **ghaiprabhghai@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prabhjot-singh-a17613218) • [GitHub](https://github.com/PrabhGhai) • [LeetCode](https://leetcode.com/u/ghaiprabhghai/)
-
----
-
-
-### 💼 Projects
-
-| Project | Tech Stack | Features |
-|--------|-------------|----------|
-| 🏥 **Virtual Appointment Booking App + AI Chat Boat** | MERN, Context API, Jitsi, OpenAI | Role-based app (4 roles - User, Patient, Doctor, Admin) + AI chatbot, report upload, doctor onboarding, and virtual health consultation |
-| 💬 **MERN Chat App** | MERN, Socket.io, Zustand, Shimmer UI | Real-time chat with JWT |
-
+  
 ---
 
 ### 🌎 Let's Connect
@@ -37,5 +27,5 @@
 
 ---
 
-📍 *Open to opportunities in Product-Based Companies, Startups, and MNCs as a MERN Stack / Backend Developer.*
+📍 *Open to opportunities in Product-Based Companies, Startups, and MNCs as a Backend Developer / Full Stack Developer.*
 
